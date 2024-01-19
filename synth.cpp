@@ -1,5 +1,6 @@
 #include "synth.h"
 #include "ac1.h"
+#include <algorithm>
 #include <string>
 #include <vector>
 #include <climits>
