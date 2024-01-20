@@ -4,7 +4,7 @@
       let pkgs = import nixpkgs { inherit system; };
       in with pkgs; {
         packages.default = stdenv.mkDerivation {
-          name = "synth-2009";
+          name = "synth-20090114";
           src = ./.;
           installPhase = ''
             mkdir -p $out/bin
