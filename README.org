@@ -1,0 +1,6 @@
+#+title: Synth
+
+This repository provides a nix flake for the synth tool by Yevgen
+Voronenko for the Spiral Project, Carnegie Mellon University. The
+original source ~synth-jan-14-2009.tar.gz~ can be found at
+https://spiral.ece.cmu.edu/mcm/gen.html.
